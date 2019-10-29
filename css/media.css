@@ -1,0 +1,172 @@
+@media screen and (max-width: 1024px) {
+  .main-header .content {
+    margin: 112px auto 0 auto;
+  }
+  main .width-holder .development .blocks-wrap {
+    margin-left: auto;
+    flex-direction: column;
+    margin-right: auto;
+    max-width: 600px;
+    margin-top: 140px;
+  }
+  main .width-holder .development .blocks-wrap .block {
+    max-width: 530px;
+    background-size: cover;
+    margin-bottom: 10px;
+  }
+  main .width-holder .our-projects .blocks-wrap .lager-wrap,
+  main .width-holder .our-projects .blocks-wrap .small-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  main .width-holder .our-projects .blocks-wrap .lager-wrap img,
+  main .width-holder .our-projects .blocks-wrap .small-wrap img {
+    width: 100%;
+  }
+  main .width-holder .trade-in .blocks-wrap {
+    flex-direction: column;
+    align-items: center;
+  }
+  main .width-holder .trade-in .blocks-wrap .block {
+    text-align: center;
+  }
+  main .width-holder .trade-in .blocks-wrap .process {
+    padding-bottom: 40px;
+  }
+  main .width-holder .trade-in .blocks-wrap .conditions {
+    padding-bottom: 0;
+  }
+  footer .content {
+    flex-direction: column;
+    align-items: center;
+    margin: 88px auto 88px auto;
+  }
+  footer .content .text {
+    margin-left: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin: 0 auto 40px auto;
+  }
+  footer .content .text h3 {
+    line-height: 52px;
+  }
+  footer .content .form .button-wrap p {
+    display: none;
+  }
+}
+@media screen and (max-width: 800px) {
+  .main-header .content p {
+    margin-bottom: 10px;
+  }
+  .main-header .content .blocks-wrap {
+    flex-direction: column;
+    width: 100%;
+    max-width: 250px;
+  }
+  .main-header .content .blocks-wrap .block {
+    margin-bottom: 25px;
+  }
+  .main-header .content .blocks-wrap .service,
+  .main-header .content .blocks-wrap .project {
+    margin-right: 0;
+  }
+  main .navigation .menu {
+    display: none;
+  }
+  main .navigation .mobile-menu {
+    display: block;
+  }
+  main .width-holder .studio .content .text-wrap {
+    flex-direction: column;
+  }
+  main .width-holder .studio .content .text-wrap h2 {
+    margin-bottom: 30px;
+  }
+  main .width-holder .studio .content .text-wrap .text {
+    padding: 10px;
+    text-align: center;
+  }
+  main .width-holder .studio .content .blocks-wrap {
+    flex-direction: column;
+    align-items: center;
+  }
+  main .width-holder .first-in-search .content .text {
+    text-align: center;
+    height: 100%;
+  }
+  main .width-holder .first-in-search .content .text h2 {
+    line-height: 60px;
+  }
+  main .width-holder .first-in-search .content .text h3 {
+    line-height: 45px;
+  }
+  main .width-holder .first-in-search .content .logo-wrap {
+    display: none;
+  }
+  main .width-holder .our-projects .header-projects .wrap h1 {
+    font-size: 52px;
+    padding-top: 20px;
+  }
+  main .width-holder .our-projects .header-projects .wrap h2 {
+    display: none;
+  }
+}
+@media screen and (max-width: 600px) {
+  .main-header .content p {
+    margin-bottom: 10px;
+  }
+  .main-header .content .blocks-wrap {
+    flex-direction: column;
+    width: 100%;
+    max-width: 250px;
+  }
+  .main-header .content .blocks-wrap .block {
+    margin-bottom: 25px;
+  }
+  .main-header .content .blocks-wrap .service,
+  .main-header .content .blocks-wrap .project {
+    margin-right: 0;
+  }
+  main .width-holder .credo .content {
+    height: 100%;
+  }
+  main .width-holder .credo .content h1 {
+    font-size: 32px;
+    margin-top: 40px;
+  }
+  main .width-holder .credo .content .main-text {
+    margin-bottom: 30px;
+  }
+  main .width-holder .development .back-block {
+    z-index: -1;
+  }
+  main .width-holder .first-in-search .content {
+    margin: 106px auto 0 auto;
+  }
+  main .width-holder .adaptive .content {
+    margin: 116px 0 60px auto;
+  }
+  main .width-holder .adaptive .content .text {
+    text-align: center;
+  }
+  main .width-holder .adaptive .content .text h2 {
+    font-size: 52px;
+  }
+  main .width-holder .adaptive .content .text h3 {
+    display: none;
+  }
+  main .width-holder .be-careful .content {
+    margin: 70px auto 50px auto;
+  }
+  main .width-holder .be-careful .content .text {
+    text-align: center;
+  }
+  main .width-holder .be-careful .content .text .back-text {
+    display: none;
+  }
+  main .width-holder .be-careful .content .text h3 {
+    font-size: 36px;
+    line-height: 50px;
+  }
+}

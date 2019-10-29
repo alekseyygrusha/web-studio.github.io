@@ -1,0 +1,134 @@
+
+.main-text {
+	width: 100%;
+	max-width: 831px;
+	height: 95px;
+	color: #ffffff;
+	font-family: "PT Sans - Caption";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 36px;
+	/* Text style for "Б, ольшинс" */
+	letter-spacing: 1.2px;
+}
+ a {
+	text-decoration: none;
+}
+h1 {
+	width: 100%;
+	height: 115px;
+	color: #ffffff;
+	font-family: "Parangon 530 C";
+	font-size: 48px;
+	font-weight: 400;
+	/* Text style for "НАШИ САЙТЫ" */
+	letter-spacing: 2.4px;
+}
+
+h2 {
+	color: #000000;
+	font-family: "Helvetica Neue Cyr";
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 30px;
+	/* Text style for "Студия" */
+	letter-spacing: 2.4px;
+}
+
+h4 {
+	color: #000000;
+	font-family: "Arial - Bold MT";
+	font-size: 20px;
+	font-weight: 800;
+	line-height: 25.57px;
+	/* Text style for "С, тарт" */
+	letter-spacing: 1.2px;
+}
+
+p {
+	color: #ffffff;
+	font-family: "PT Sans - Caption";
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 36px;
+	/* Text style for "проектов" */
+	letter-spacing: 0.9px;
+}
+
+strong {
+	color: #ffffff;
+	font-family: "Parangon 530 C";
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 30px;
+	/* Text style for "5, 18" */
+	letter-spacing: 2.4px;
+}
+
+li a {
+	text-decoration: none;
+	color: #000000;
+	font-family: "Futura - Normal";
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 30px;
+	/* Text style for "Контакты" */
+	letter-spacing: 1.5px;
+}
+
+
+
+.text {
+	width: 100%;
+	max-width: 763px;
+	height: 139px;
+	opacity: 0.8;
+	color: #000000;
+	font-family: "Arial MT";
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 30px;
+	/* Text style for "О, сновная" */
+	font-family: Arial;
+	letter-spacing: 1px;
+	/* Text style for "," */
+	font-family: "PT Sans - Caption";
+	font-size: 24px;
+	letter-spacing: 1.2px;
+}
+
+.block h2 {
+	color: #fff;
+	font-family: "Helvetica Neue Cyr";
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 50px;
+	/* Text style for "Студия" */
+	letter-spacing: 2.4px;
+}
+
+ .block a {
+ 	color: #feffff;
+ 	font-family: "Myriad Pro";
+ 	font-size: 24px;
+ 	font-weight: 400;
+ 	line-height: 48.53px;
+ 	/* Text style for "от 15000 р" */
+ 	letter-spacing: 1.2px;
+ }
+
+ .back-block h2 {
+ 	color: #feffff;
+ }
+
+ .first-in-search p {
+ 	color: #000000;
+ }
+
+ .be-the-first {
+ 	color: #000000;
+ 	font-family: Tahoma;
+ 	font-size: 80px;
+ 	font-weight: 700;
+ 	line-height: 35.15px;
+ }
