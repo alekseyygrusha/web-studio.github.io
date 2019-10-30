@@ -18,7 +18,7 @@ body {
   max-width: 1500px;
   height: 100%;
   min-height: 800px;
-  background: linear-gradient(rgba(48, 50, 99, 0.61), rgba(48, 50, 99, 0.61)), url(Z:/home/mysite/www/Syte/web-studio/img/IMG_3644.png) no-repeat;
+  background: linear-gradient(rgba(48, 50, 99, 0.61), rgba(48, 50, 99, 0.61)), url(img/IMG_3644.png) no-repeat;
   background-size: cover;
   box-sizing: padding-box;
 }
@@ -239,7 +239,7 @@ main .width-holder .credo {
   height: 100%;
   max-width: 1500px;
   min-height: 568px;
-  background: linear-gradient(rgba(48, 50, 99, 0.61), rgba(48, 50, 99, 0.61)), url(Z:/home/mysite/www/Syte/web-studio/img/IMG_3654.png) no-repeat 30% 0%;
+  background: linear-gradient(rgba(48, 50, 99, 0.61), rgba(48, 50, 99, 0.61)), url(img/IMG_3654.png) no-repeat 30% 0%;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -356,7 +356,7 @@ main .width-holder .development .blocks-wrap .block .button-wrap:hover .arrow-wr
   transition: 0.5s;
 }
 main .width-holder .development .blocks-wrap .landing {
-  background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("Z:/home/mysite/www/Syte/web-studio/img/IMG_3646.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("img/IMG_3646.png");
 }
 main .width-holder .development .blocks-wrap .landing .button-wrap:hover a {
   color: #00b9e7;
@@ -367,7 +367,7 @@ main .width-holder .development .blocks-wrap .landing .button-wrap .arrow::befor
   background-color: #00b9e7;
 }
 main .width-holder .development .blocks-wrap .web-site {
-  background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("Z:/home/mysite/www/Syte/web-studio/img/Free-04.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("img/Free-04.png");
 }
 main .width-holder .development .blocks-wrap .web-site .button-wrap:hover a {
   color: #ffcb00;
@@ -381,7 +381,7 @@ main .width-holder .development .blocks-wrap .web-site .button-wrap .arrow::befo
   background-color: #ffcb00;
 }
 main .width-holder .development .blocks-wrap .online-store {
-  background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("Z:/home/mysite/www/Syte/web-studio/img/zakaz.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("img/zakaz.png");
 }
 main .width-holder .development .blocks-wrap .online-store .button-wrap:hover a {
   color: #66bf0d;
@@ -582,7 +582,7 @@ main .width-holder .adaptive .content .img-block {
 main .width-holder .trade-in {
   width: 100%;
   min-height: 650px;
-  background: linear-gradient(rgba(0, 0, 0, 0.53), rgba(0, 0, 0, 0.52)), url(Z:/home/mysite/www/Syte/web-studio/img/close-meeting.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.53), rgba(0, 0, 0, 0.52)), url(img/close-meeting.png);
   background-size: cover;
 }
 main .width-holder .trade-in h2 {
@@ -702,7 +702,7 @@ footer {
   width: 100%;
   max-width: 1500px;
   min-height: 370px;
-  background: linear-gradient(rgba(47, 50, 98, 0.53), rgba(47, 50, 98, 0.52)), url(Z:/home/mysite/www/Syte/web-studio/img/IMG_3654.png);
+  background: linear-gradient(rgba(47, 50, 98, 0.53), rgba(47, 50, 98, 0.52)), url(img/IMG_3654.png);
   background-size: cover;
 }
 footer .content {
